@@ -1,0 +1,9 @@
+[
+  {
+    "targets": [ "108.22.137.13" ],
+    "labels": {
+      "group": "aaaa",
+      "alias": "bbbb"
+    }
+  }
+]
